@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 ### Step 4: Create a Configuration File
 
-Create a `config.yml` file in the root directory of the project with the following content:
+Modify the `config.yml` file in the root directory of the project with the following content:
 
 ```yaml
 model:
@@ -96,7 +96,8 @@ inference:
   batch_size: 32
   device: "cuda"
 api:
-  key: "{your_api_key}}"  
+  key: "{your_api_key}}"
+  endpoint: "{your_api_endpoint}"  
 ```
 
 ### Step 5: Run the Inference Script

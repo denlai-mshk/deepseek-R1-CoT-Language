@@ -6,3 +6,4 @@ inference:
   device: "cuda"
 api:
   key: "{your_api_key}"
+  endpoint: "{your_api_endpoint}"

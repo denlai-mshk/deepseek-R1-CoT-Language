@@ -17,6 +17,7 @@ os.environ['MODEL_VERSION'] = config['model']['version']
 os.environ['BATCH_SIZE'] = str(config['inference']['batch_size'])
 os.environ['DEVICE'] = config['inference']['device']
 os.environ['API_KEY'] = config['api']['key']
+os.environ['API_ENDPOINT'] = config['api']['endpoint']
 
 # Access configuration parameters from environment variables
 model_path = os.getenv('MODEL_PATH')
@@ -24,6 +25,7 @@ model_version = os.getenv('MODEL_VERSION')
 batch_size = int(os.getenv('BATCH_SIZE'))
 device = os.getenv('DEVICE')
 api_key = os.getenv('API_KEY')
+api_endpoint = os.getenv('API_ENDPOINT')
 
 # Ensure API key is provided
 if not api_key:
@@ -31,7 +33,7 @@ if not api_key:
 
 # Initialize the client
 client = ChatCompletionsClient(
-    endpoint='https://deepseek-r1-denlai.westus.models.ai.azure.com',
+    endpoint=api_endpoint,
     credential=AzureKeyCredential(api_key)
 )
 
