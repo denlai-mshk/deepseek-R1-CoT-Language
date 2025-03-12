@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Dis-moi pourquoi le soleil se lève à l'est"
+        }
+    ],
+    "max_tokens": 2048
+}

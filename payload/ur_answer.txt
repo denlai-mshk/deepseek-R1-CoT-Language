@@ -1,0 +1,32 @@
+Response: <think>
+Alright, the user is asking why the sun rises in the east. Let me start by recalling the basic astronomy concepts.
+
+First, it's about Earth's rotation. The Earth spins on its axis from west to east. So, when a specific location on Earth rotates towards the sun, that's sunrise. Since the rotation is west to east, the eastern areas see the sun first.
+
+But I should make sure I'm accurate here. Maybe I should mention the axial tilt and how it affects the apparent position of sunrise throughout the year, but the main reason is the rotation direction.
+
+Wait, the user might not know about the Earth's rotation. I should explain that the Earth spins counterclockwise when viewed from above the North Pole, causing the sun to appear to rise in the east.
+
+Also, maybe mention that it's a relative motion. From our perspective on Earth, it looks like the sun is moving, but actually, the Earth is rotating. So the direction of rotation determines where the sun appears.
+
+I should check if there are any exceptions, like near the poles during certain times of the year, but the general rule is east due to Earth's rotation.
+
+Make sure to keep it simple and clear, avoiding too much technical jargon. Maybe use an example like spinning a globe and watching a point come into the light from the east.
+</think>
+
+سورج کے مشرق سے طلوع ہونے کی بنیادی وجہ زمین کا اپنے محور پر گھومنا ہے۔ زمین مغرب سے مشرق کی طرف گھومتی ہے (یعنی جب آپ شمالی قطب کو اوپر سمجھ کر دیکھیں تو یہ **گھڑی کی مخالف سمت** میں گھومتی ہے)۔ اس طرح، جب زمین اپنے محور پر گردش کرتی ہے تو وہ مقامات جو مشرق کی جانب ہوتے ہیں، سورج کی روشنی سب سے پہلے دیکھتے ہیں، جبکہ مغرب والے حصے بعد میں۔ یہی وجہ ہے کہ ہمیں سورج "مشرق سے طلوع" ہوتا دکھائی دیتا ہے۔
+
+### مزید وضاحت:
+1. **زمین کی گردش:** زمین 24 گھنٹے میں ایک بار اپنے محور پر گھومتی ہے۔ یہ حرکت ہمیں سورج کو آسمان پر حرکت کرتا ہوا محسوس کرواتی ہے حالانکہ درحقیقت زمین ہی حرکت میں ہے۔
+   
+2. **ظاہری حرکت:** جیسے جیسے زمین گھومتی ہے، ہماری مقامی پوزیشن سورج کی روشنی کے سامنے آتی ہے۔ مشرق کی جانب والے علاقے روشنی میں آتے ہیں تو ہمیں سورج "طلوع" ہوتا دکھائی دیتا ہے۔
+
+3. **قطبوں پر استثنا:** شمالی یا جنوبی قطبوں کے قریب، سال کے بعض اوقات میں سورج مسلسل طلوع یا غروب رہ سکتا ہے (مثلاً "مڈنائیٹ سن" یا قطبی رات)، لیکن عام طور پر زمین کی گردش کی وجہ سے سورج کا طلوع مشرق سے ہی ہوتا ہے۔
+
+### مثال کے لیے:
+اگر آپ ایک گول کرہ (گلوب) کو گھڑی کی مخالف سمت میں گھمائیں اور اس پر ایک نقطہ نشان لگا دیں، تو جب وہ نقطہ روشنی (سورج) کی طرف مڑے گا، تو اسے سب سے پہلے مشرق والا حصہ ہی روشنی میں آتا دکھائی دے گا۔ یہی زمین کے ساتھ ہو رہا ہے! 🌍☀️
+Model: deepseek-r1
+Usage:
+    Prompt tokens: 25
+    Total tokens: 884
+    Completion tokens: 859

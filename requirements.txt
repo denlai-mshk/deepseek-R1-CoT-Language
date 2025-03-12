@@ -1,0 +1,5 @@
+pyyaml
+tensorflow
+# or
+torch
+azure-ai-inference

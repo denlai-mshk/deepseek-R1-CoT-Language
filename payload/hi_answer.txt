@@ -1,0 +1,28 @@
+Response: <think>
+Alright, the user is asking why the sun rises in the east. Let me start by thinking about the Earth's rotation.
+
+Okay, so the Earth spins on its axis from west to east. That means as it rotates, different parts of the planet face the Sun, creating day and night.
+
+When a specific location on Earth turns towards the Sun, that's sunrise. Since the rotation is west to east, the eastern areas see the Sun first, making it appear like the Sun rises in the east.
+
+Wait, should I mention the axial tilt? Maybe not necessary here since the question is mainly about direction, not seasons.
+
+Also, does this apply everywhere? What about the poles? But the user might be asking in a general sense, so probably stick to the basic explanation.
+
+Add a note that it's a geometric perspective, not the Sun moving, but Earth rotating. That clarifies it's our viewpoint from Earth.
+
+Check if the answer is clear and concise. Make sure to use simple terms without too much jargon.
+</think>
+
+सूरज पूर्व दिशा में "उगता" हुआ दिखाई देता है, क्योंकि **पृथ्वी अपनी धुरी पर पश्चिम से पूर्व की ओर घूमती है** (घड़ी की विपरीत दिशा में)। यह घूर्णन 24 घंटे में पूरा होता है, जिससे दिन और रात का चक्र बनता है। जब पृथ्वी का कोई हिस्सा घूमते हुए सूरज की ओर मुड़ता है, तो वहाँ सूर्योदय होता है। चूँकि पृथ्वी पूर्व की ओर घूम रही है, पूर्वी क्षेत्र सबसे पहले सूरज के सामने आते हैं, इसलिए हमें लगता है कि सूरज पूर्व में उग रहा है।
+
+### संक्षेप में:
+- **पृथ्वी का घूर्णन** (Rotation): पश्चिम से पूर्व की ओर।
+- **परिणाम**: पूर्वी क्षेत्रों को सूरज की रोशनी पहले मिलती है, इसलिए सूर्योदय पूर्व में दिखता है।
+
+यह एक **दृष्टिकोण का भ्रम** भी है, क्योंकि असल में सूरज स्थिर है, और पृथ्वी उसके चारों ओर घूमती है। 🌍☀️
+Model: deepseek-r1
+Usage:
+    Prompt tokens: 28
+    Total tokens: 635
+    Completion tokens: 607

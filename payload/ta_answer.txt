@@ -1,0 +1,42 @@
+Response: <think>
+Okay, the user is asking why the sun rises in the east in Tamil. Let me start by recalling the basic astronomy behind sunrise directions. Earth's rotation on its axis from west to east causes the sun to appear to rise in the east. But maybe I should explain this step by step.
+
+First, the Earth rotates around its axis. The direction of rotation is from west to east. So, when we're on the Earth's surface, it seems like the sun is moving across the sky from east to west. But actually, it's the Earth turning towards the east that makes the sun appear to rise in the east.
+
+Wait, should I clarify the difference between the Earth's rotation and revolution? The user might confuse the two. Revolution is around the sun, causing seasons, while rotation causes day and night. So maybe mention that rotation is the key factor here.
+
+Also, could there be any exceptions? Like at the poles, the sun doesn't rise in the east every day. But generally, for most places and most of the year, the sun rises in the east. Maybe add a note about how the exact rising point can vary slightly depending on the time of year and the observer's latitude, but the general direction is east due to Earth's rotation.
+
+I should also make sure to use simple terms in Tamil. Words like axis, rotation, orbit might need to be translated or explained. Maybe "பூமி சுழற்சி" for Earth's rotation, "அச்சு" for axis. Check if those terms are commonly understood.
+
+Another point: the perception from the ground. Because we're on the rotating Earth, it looks like the sun is moving, but it's actually us moving. That's an important point to emphasize to avoid the misconception that the sun orbits the Earth.
+
+Wait, maybe use an analogy. Like spinning around in a merry-go-round, and how objects outside appear to move in the opposite direction. If Earth spins eastward, the sun appears in the west and moves east? Wait, no. Let me think. If you're rotating towards the east, the horizon in the east comes up to meet the sun, making the sun appear to rise there. Yes, so the direction of rotation causes the eastward sunrise.
+
+Also, check if the user might be confusing sunrise with the zodiacal direction in astrology. But the question seems to be about the astronomical reason, so focus on that.
+
+Putting it all together: Start with Earth's rotation direction, explain how that leads to the sun appearing to rise in the east, mention that this is a daily occurrence due to the 24-hour rotation period, and note any variations if necessary. Keep it concise and clear in Tamil.
+</think>
+
+சூரியன் கிழக்குத் திசையில் உதயமாகக் காணப்படுவதற்குக் காரணம், **பூமி தனது அச்சில் மேற்கிலிருந்து கிழக்காக சுழல்வது** தான்!  
+
+### விளக்கம்:  
+1. **பூமியின் சுழற்சி:**  
+   பூமி தனது அச்சில் (ஒரு கற்பனைக் கோடு வட துருவத்தில் இருந்து தென் துருவம் வரை) 24 மணி நேரத்திற்கு ஒருமுறை மேற்கிலிருந்து கிழக்காக சுழல்கிறது. இந்த சுழற்சியின் போது, சூரியன் ஒரு நிலையான பொருளாக இருப்பதால், பூமியின் ஒரு பகுதி சூரியனை நோக்கி சுழலும்போது அங்கு பகல் நேரமாகவும், மறுபுறம் சுழலும்போது இரவாகவும் மாறுகிறது.  
+
+2. **கிழக்கில் உதயம் ஏன்?**  
+   பூமியின் சுழற்சித் திசை **கிழக்கு** என்பதால், பூமியின் கிழக்குப் பகுதிகள் முதலில் சூரிய ஒளியைப் பெறத் தொடங்குகின்றன. இதனால், நாம் நிற்கும் இடத்தில் இருந்து பார்க்கும்போது, சூரியன் கிழக்கில் இருந்து "உதிக்கிறது" போல் தோன்றுகிறது.  
+
+3. **மேற்கில் அஸ்தமனம் ஏன்?**  
+   பூமி தொடர்ந்து கிழக்கு நோக்கிச் சுழல்வதால், சூரியன் நம்மிடமிருந்து விலகி மேற்குத் திசையில் மறைந்து போவதாகத் தெரிகிறது.  
+
+### குறிப்பு:  
+- இது ஒவ்வொரு நாளும் நடக்கும் இயற்கையான நிகழ்வு.  
+- பூமியின் சாய்வு (23.5°), புவியின் சுற்றுப்பாதை (Revolution) போன்றவை சூரிய உதய-அஸ்தமன திசையில் சிறிய மாற்றங்களை ஏற்படுத்தும் (எ.கா., வடக்கு அல்லது தெற்கு நோக்கி), ஆனால் பொதுவாக கிழக்குத் திசையிலேயே உதயம் நடக்கும்.  
+
+எளிமையாகச் சொன்னால், **"பூமி கிழக்கு நோக்கி சுழல்வதால், சூரியன் கிழக்கில் தோன்றுகிறது"**! 🌅
+Model: deepseek-r1
+Usage:
+    Prompt tokens: 29
+    Total tokens: 1290
+    Completion tokens: 1261

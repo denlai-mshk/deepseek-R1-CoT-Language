@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Niambie kwa nini jua linachomoza kutoka mashariki"
+        }
+    ],
+    "max_tokens": 2048
+}

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Dimmi perché il sole sorge da est"
+        }
+    ],
+    "max_tokens": 2048
+}

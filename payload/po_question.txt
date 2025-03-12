@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Diga-me por que o sol nasce no leste"
+        }
+    ],
+    "max_tokens": 2048
+}

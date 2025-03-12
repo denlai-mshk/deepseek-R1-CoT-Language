@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Dime por qué el sol sale por el este"
+        }
+    ],
+    "max_tokens": 2048
+}

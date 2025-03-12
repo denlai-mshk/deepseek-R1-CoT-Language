@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "なぜ太陽が東から昇るのか教えてください"
+        }
+    ],
+    "max_tokens": 2048
+}

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Tell me why the sunrise is from the east"
+        }
+    ],
+    "max_tokens": 2048
+}

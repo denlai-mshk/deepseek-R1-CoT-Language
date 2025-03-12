@@ -1,0 +1,8 @@
+model:
+  path: "path/to/model"
+  version: "1.0"
+inference:
+  batch_size: 32
+  device: "cuda"
+api:
+  key: "{your_api_key}"

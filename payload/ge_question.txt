@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Sag mir, warum die Sonne im Osten aufgeht"
+        }
+    ],
+    "max_tokens": 2048
+}

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "告诉我为什么太阳从东方升起"
+        }
+    ],
+    "max_tokens": 2048
+}

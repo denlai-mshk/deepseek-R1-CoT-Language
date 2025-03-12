@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "왜 해가 동쪽에서 뜨는지 말해주세요"
+        }
+    ],
+    "max_tokens": 2048
+}

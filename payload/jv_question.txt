@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {
+            "role": "user",
+            "content": "Kandhani aku kenapa srengenge munggah saka wétan"
+        }
+    ],
+    "max_tokens": 2048
+}
